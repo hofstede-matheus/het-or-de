@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Het or De</string>
+    <string name="het_or_de">Het or De?</string>
+    <string name="type_a_noun">Type a noun</string>
 </resources>
